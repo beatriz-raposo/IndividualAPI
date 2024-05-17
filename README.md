@@ -22,11 +22,11 @@ Foi desenvolvido um sistema de biblioteca, criando um CRUD e utilizando o banco 
 
 ## :desktop_computer:Endpoints
 
- * Findall: localhost:8080/livros <br>
- * FindById: localhost:8080/livros/2 <br>
- * Put: localhost:8080/livros/2 <br>
- * Post: localhost:8080/livros <br>
- * Delete: localhost:8080/livros/2 <br>
+ * Get Listar: localhost:8080/livros <br>
+ * Get Buscar: localhost:8080/livros/2 <br>
+ * Put Atualizar: localhost:8080/livros/2 <br>
+ * Post Inserir: localhost:8080/livros <br>
+ * Del Deletar: localhost:8080/livros/2 <br>
 
 
 
