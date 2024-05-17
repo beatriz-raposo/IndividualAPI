@@ -9,7 +9,7 @@
 * Contexto
 * Tecnologias utilizadas
 * Endpoints
-* Autores do Projeto
+* Autora
 
 ## :desktop_computer:Contexto
 Foi desenvolvido um sistema de biblioteca, criando um CRUD e utilizando o banco H2 para realização desse trabalho.
